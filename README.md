@@ -7,4 +7,4 @@ All queries separated by the number (1.sql, 2.sql, ...)
 Start the application by localhost, unfortunately i can't make it work directly from vscode
 
 ## Section C
-Just launch the application from chrome. The webdriver will be installed automatically on startup
+Just launch the application. The Chrome Webdriver will be installed automatically on startup
